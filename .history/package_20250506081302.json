@@ -1,0 +1,14 @@
+{
+  "name": "my-electron-app",
+  "version": "1.0.0",
+  "description": "learning electron",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "محمود مؤمنی رنانی",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^36.1.0"
+  }
+}
